@@ -1,7 +1,11 @@
-# Olá! Eu sou o Lem. <h1>
+# Hi! I'm Lem. <h1>
   
-  * Sou estudante de HTML5 e CSS3
-  * Gosto de aprender e ajudar
+A little about myself:
+  
+  *  I like to learn
+  
+  * I'm learning how to develop websites with HTML5 and CSS3 languages
+  
+  * I like to talk
   
   
-    ![Snake animation](https://github.com/lemoxii)
